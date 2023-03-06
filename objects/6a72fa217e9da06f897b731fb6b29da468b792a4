@@ -1,0 +1,4 @@
+[map "33b94504-ca89-362c-bae7-6e3112c43e17"]
+	object = 21fe21efb2abae7ff01a03271ab9b912dacdce74
+	path = nested-mod
+	type = expand module
