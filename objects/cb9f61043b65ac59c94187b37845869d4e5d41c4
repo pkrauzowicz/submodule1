@@ -1,0 +1,12 @@
+[module "7d223ae2-1de7-3a04-b36a-db88d60e652f"]
+	conflict = request-pull
+	path = nested-mod
+	pull = merge subtree
+	pull = squash never
+	ref = if refs/heads/main sync refs/heads/main
+	url = agnostic://gh/610381854
+[map "e95e6ff2-4d92-3389-bb9a-74b0256b42d8"]
+	object = bb3e67af1161f20f51bac80e56f282d5bef3e94e
+	path = nested-mod
+	stage = sync
+	type = extract module
